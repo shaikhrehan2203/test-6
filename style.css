@@ -1,0 +1,30 @@
+.img-div {
+
+    background-image: url(a2.jpg);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+
+}
+
+.img-div-1 {
+
+    background-image: url(a5.avif);
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    background-size: cover;
+
+    
+}
+
+.img-div-2 {
+
+    background-image: url(a4.jpg);
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    background-size: cover;
+
+
+}
